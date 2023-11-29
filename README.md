@@ -1,11 +1,10 @@
 ### Hola, soy Ingrid Piñerez 👋
 
- 💻✨ Desarrolladora Backend, mi experiencia en el mundo del desarrollo web ha estado marcada por el desarrollo de diversos proyectos,
-       donde he aplicado mis conocimientos en tecnologías clave como Java, MySQL, SpringBoot y en pruebas unitarias con JUnit. 
+ 💻✨ Desarrolladora Backend, mi experiencia en el mundo del desarrollo web ha estado marcada por el desarrollo de diversos proyectos, donde he aplicado mis conocimientos en tecnologías clave como Java, MySQL, SpringBoot y en pruebas unitarias con JUnit. 
 
  🚀🔧 Mi enfoque va más allá de simplemente escribir código; se trata de construir soluciones inteligentes y eficientes que resuelvan problemas del mundo real. 
  
- 🧠💡 Actualmente, estoy fortaleciendo mi nivel de inglés (A2) 📚 y ampliando mis conocimientos del desarrollo de software (Frontend). 
+ 🧠💡 Actualmente, estoy fortaleciendo mi nivel de inglés y ampliando mis conocimientos del desarrollo de software (Frontend). 
 
  🌟✨ Me encanta enfrentar nuevos desafíos, aprender de cada experiencia y aportar un valor significativo a cada proyecto.
 
